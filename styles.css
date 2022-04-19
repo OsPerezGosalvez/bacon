@@ -1,0 +1,21 @@
+/******Tag*****/
+h1 {
+  color: red;
+  font-size: 50px;
+  font-style: italic;
+    }
+
+img:hover {
+    background-color: lightblue;
+    }
+body{
+  background-color: yellow;
+}
+/*******class*****/
+.bacon{
+  background-color: pink;
+}
+.avocado{
+  background-color: green;
+}
+/*****Id****/
